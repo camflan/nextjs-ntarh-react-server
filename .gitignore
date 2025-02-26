@@ -3,6 +3,7 @@
 
 # -- include these files -----------------------------------------------
 !.gitignore
+!README.md
 !next-env.d.ts
 !next.config.js
 !package-lock.json
