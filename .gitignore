@@ -1,0 +1,12 @@
+# -- ignore everything by default --------------------------------------
+/*
+
+# -- include these files -----------------------------------------------
+!.gitignore
+!next-env.d.ts
+!next.config.js
+!package-lock.json
+!package.json
+!src/
+!tsconfig.json
+!vitest.config.ts
